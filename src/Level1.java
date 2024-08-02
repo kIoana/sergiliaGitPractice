@@ -12,4 +12,8 @@ public class Level1 {
     public static void hello(){
         System.out.println("hello");
     }
+
+    public static void classtime(){
+
+    }
 }

@@ -4,4 +4,8 @@ public class Level1 {
         System.out.println();
         System.out.println(" hello again");
     }
+
+    public static void add(int num, int num2){
+
+    }
 }
